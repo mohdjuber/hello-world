@@ -1,6 +1,6 @@
 # hello-world
-hi humans!
-i like php
+hii!
+i like coding
 Just another repository
 I'm Mohd Juber Ali I belong to saharanpur.
-I have done Bechelor of computer application.
+I have done Bachelor of computer application.
